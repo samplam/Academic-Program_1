@@ -15,7 +15,7 @@ This program was coded to answer a specific question for an evaluation in an aca
 - Basic input validation
 
 ## Usage
-1. Open in Python
+1. Open 'exercice1.py' in Python
 2. Follow the program promps as needed
 3. At the end, the program shows the total amount for the registration
 
